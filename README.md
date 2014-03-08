@@ -21,4 +21,4 @@ The code is horribly written, a programmer's nightmare, but hey this was a 15 mi
 License?
 ========
 
-Under the CC Atribution License (http://creativecommons.org/licenses/by/2.0/)
+Under the CC Attribution License (http://creativecommons.org/licenses/by/2.0/)
